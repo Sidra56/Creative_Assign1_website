@@ -1,0 +1,41 @@
+.navbar {
+  background-color: black;
+}
+.navbar .navbar-brand {
+  margin-left: 4rem;
+}
+.navbar .navbar-collapse {
+  margin-right: 3rem;
+}
+.navbar .navbar-collapse .navbar-nav li {
+  padding-right: 1.5rem;
+}
+.navbar .navbar-collapse .navbar-nav li .nav-link {
+  font-family: sans-serif;
+  font-size: 16px;
+  color: white;
+  font-weight: bold;
+}
+.navbar .navbar-collapse .navbar-nav li .nav-link:hover {
+  background-color: #005490;
+  font-weight: bolder;
+}
+
+.home {
+  background: #005490;
+  position: relative;
+  height: 35em;
+}
+.home .container .home_section .row .row1 .top_left_cont {
+  margin-top: 10rem;
+}
+.home .container .home_section .row .row1 .top_left_cont h2 {
+  font-size: 3rem;
+}
+.home .container .home_section .row .row1 .top_left_cont p {
+  font-size: 1.2rem;
+  font-family: cursive;
+}
+.home .container .home_section .row .row1 .top_left_cont a {
+  border: 1px solid white;
+}
